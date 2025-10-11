@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🪶 **AURA**  
+#  **AURA**  
+![Uploading AURA-removebg-preview.png…]()
+
 ### *Building the AI Companion I Actually Want to Talk To*
 
 > **TL;DR:** AURA is a privacy-first, wearable AI that remembers our conversations, senses emotions, and lives *with* you — not *in the cloud.*  
