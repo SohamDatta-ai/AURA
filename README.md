@@ -1,7 +1,8 @@
 <div align="center">
 
 #  **AURA**  
-![Uploading AURA-removebg-preview.png…]()
+<img width="500" height="500" alt="AURA-removebg-preview" src="https://github.com/user-attachments/assets/d7785ef5-dc61-491c-bc14-1e6de08fe685" />
+
 
 ### *Building the AI Companion I Actually Want to Talk To*
 
