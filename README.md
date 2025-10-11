@@ -4,7 +4,7 @@
 <img width="500" height="500" alt="AURA-removebg-preview" src="https://github.com/user-attachments/assets/d7785ef5-dc61-491c-bc14-1e6de08fe685" />
 
 
-### *Building the AI Companion I Actually Want to Talk To*
+### *Always With You*
 
 > **TL;DR:** AURA is a privacy-first, wearable AI that remembers our conversations, senses emotions, and lives *with* you — not *in the cloud.*  
 > Think **JARVIS meets Her**, but open-source, memory-driven, and actually personal.
