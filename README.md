@@ -1,7 +1,8 @@
 <div align="center">
 
 
-<img width="500" height="500" alt="AURA-removebg-preview" src="https://github.com/user-attachments/assets/d7785ef5-dc61-491c-bc14-1e6de08fe685" />
+![Perspective Render_1 (1)](https://github.com/user-attachments/assets/db28e629-9b2a-48df-9a89-1a02edb40844)
+
 
 #  **AURA**  
 ### *Always With You*
